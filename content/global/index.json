@@ -32,7 +32,7 @@
   "theme": {
     "color": "green",
     "font": "sans",
-    "icon": "boxicon",
+    "icon": "heroicon",
     "darkMode": "system"
   }
 }
