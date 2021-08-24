@@ -57,7 +57,7 @@ export const Header = ({ data }) => {
                   }}
                   className="inline-block h-auto w-10 mr-1"
                 />{" "}
-                rwe_rvve
+                RWE_RVVE
               </a>
             </Link>
           </h4>

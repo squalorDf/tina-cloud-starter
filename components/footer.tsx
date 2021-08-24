@@ -2,6 +2,8 @@ import React from "react";
 import Link from "next/link";
 // @ts-ignore
 import TinaIconSvg from "../public/tina.svg";
+// добавялем лого с рейвом
+import RvveIconSvg from "../public/rvve_logo.svg";
 import { FaFacebookF, FaGithub, FaTwitter } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
 import { Container } from "./container";
