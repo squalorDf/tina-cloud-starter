@@ -1,8 +1,8 @@
 ---
 blocks:
-  - tagline: just get fun >
+  - tagline: just get some fun >
     headline: alexandrov parties
-    text: ITS LIT
+    text: '**Как позвать всех?**'
     actions:
       - label: Вечеринки
         type: button
