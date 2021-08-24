@@ -4,13 +4,9 @@ blocks:
     headline: alexandrov parties
     text: ITS LIT
     actions:
-      - label: Get Started
+      - label: Вечеринки
         type: button
         icon: true
-        link: /posts
-      - label: Read Blog
-        type: link
-        icon: false
         link: /posts
     image:
       src: >-
