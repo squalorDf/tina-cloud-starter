@@ -2,8 +2,8 @@
   "header": {
     "icon": {
       "color": "green",
-      "style": "float",
-      "name": "world"
+      "style": "circle",
+      "name": ""
     },
     "color": "default",
     "nav": [
