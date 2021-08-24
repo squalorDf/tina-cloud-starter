@@ -41,7 +41,7 @@ import { FaBeer, FaCoffee, FaPalette } from "react-icons/fa";
 // @ts-ignore
 import TinaIconSvg from "../public/tina.svg";
 // добавляем лого с рейвом
-import RvveIconSvg from "../public/rvve_logo.svg";
+// import RvveIconSvg from "../public/rvve_logo.svg";
 
 const biIconOptions = {
   code: BiCodeBlock,
@@ -64,7 +64,7 @@ const biIconOptions = {
   world: BiWorld,
   aperture: FiAperture,
   tina: TinaIconSvg,
-  rvve: RvveIconSvg,
+  // rvve: RvveIconSvg,
 };
 
 const heroIconOptions = {
@@ -88,7 +88,7 @@ const heroIconOptions = {
   world: BiWorld,
   aperture: FiAperture,
   tina: TinaIconSvg,
-  rvve: RvveIconSvg,
+  // rvve: RvveIconSvg,
 };
 
 export const Icon = ({ data, parentColor = "", className = "" }) => {
