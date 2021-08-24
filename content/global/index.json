@@ -1,11 +1,11 @@
 {
   "header": {
     "icon": {
-      "color": "primary",
+      "color": "green",
       "style": "circle",
-      "name": "chart"
+      "name": ""
     },
-    "color": "default",
+    "color": "primary",
     "nav": [
       {
         "href": "",
