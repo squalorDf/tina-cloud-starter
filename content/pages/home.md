@@ -2,12 +2,7 @@
 blocks:
   - tagline: just get fun >
     headline: alexandrov parties
-    text: >-
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      `content/pages/home.md`, components from `components/blocks`, and puts
-      them all together in `pages/[filename].tsx`, all based on a schema defined
-      in `.tina/schema.ts`.
+    text: ITS LIT
     actions:
       - label: Get Started
         type: button
@@ -21,7 +16,7 @@ blocks:
       src: >-
         https://res.cloudinary.com/forestry-demo/image/upload/v1628102029/tina-cloud-starter/tina-illustration.WebP
       alt: rvve_logo
-    color: default
+    color: tint
     _template: hero
   - body: >-
       Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.
