@@ -3,9 +3,9 @@
     "icon": {
       "color": "green",
       "style": "circle",
-      "name": ""
+      "name": "aperture"
     },
-    "color": "primary",
+    "color": "default",
     "nav": [
       {
         "href": "",
