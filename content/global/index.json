@@ -1,8 +1,8 @@
 {
   "header": {
     "icon": {
-      "color": "orange",
-      "style": "float",
+      "color": "green",
+      "style": "circle",
       "name": "tina"
     },
     "color": "default",
