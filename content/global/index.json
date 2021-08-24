@@ -1,9 +1,9 @@
 {
   "header": {
     "icon": {
-      "color": "green",
+      "color": "primary",
       "style": "circle",
-      "name": ""
+      "name": "chart"
     },
     "color": "default",
     "nav": [
