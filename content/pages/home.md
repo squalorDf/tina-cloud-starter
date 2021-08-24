@@ -1,12 +1,7 @@
 ---
 blocks:
-  - body: >-
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.
-      Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse
-      urna nibh, viverra non, semper suscipit, posuere a, pede.
-    _template: content
-  - tagline: 'load, sor'
-    headline: get check everybody
+  - tagline: just get fun >
+    headline: alexandrov parties
     text: >-
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
@@ -25,8 +20,13 @@ blocks:
     image:
       src: >-
         https://res.cloudinary.com/forestry-demo/image/upload/v1628102029/tina-cloud-starter/tina-illustration.WebP
-      alt: Tina
+      alt: rvve_logo
     color: default
     _template: hero
+  - body: >-
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.
+      Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse
+      urna nibh, viverra non, semper suscipit, posuere a, pede.
+    _template: content
 ---
 
