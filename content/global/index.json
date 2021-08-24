@@ -5,15 +5,11 @@
       "style": "float",
       "name": "aperture"
     },
-    "color": "primary",
+    "color": "default",
     "nav": [
       {
         "href": "",
         "label": "Home"
-      },
-      {
-        "href": "about",
-        "label": "About"
       },
       {
         "href": "posts",
