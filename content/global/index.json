@@ -22,10 +22,10 @@
     ]
   },
   "footer": {
-    "color": "default",
+    "color": "primary",
     "social": {
-      "facebook": "/",
-      "twitter": "/",
+      "facebook": "",
+      "twitter": "",
       "instagram": "/"
     }
   },
