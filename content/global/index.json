@@ -2,7 +2,7 @@
   "header": {
     "icon": {
       "color": "green",
-      "style": "float",
+      "style": "circle",
       "name": "rvve"
     },
     "color": "default",
