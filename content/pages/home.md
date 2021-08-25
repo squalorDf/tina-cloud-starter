@@ -10,7 +10,7 @@ blocks:
         link: /posts
     image:
       src: >-
-        https://res.cloudinary.com/forestry-demo/image/upload/v1628102029/tina-cloud-starter/tina-illustration.WebP
+        http://res.cloudinary.com/qdfz/image/upload/v1629914669/rvve_logo-removebg_upmuou.png
       alt: rvve_logo
     color: tint
     _template: hero
