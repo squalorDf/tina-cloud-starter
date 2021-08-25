@@ -8,22 +8,17 @@
     "color": "default",
     "nav": [
       {
-        "href": "",
-        "label": "Home"
-      },
-      {
         "href": "posts",
-        "label": "Blog"
+        "label": "Контент"
       }
     ]
   },
   "footer": {
-    "color": "default",
+    "color": "primary",
     "social": {
       "facebook": "",
       "twitter": "",
-      "instagram": "https://www.instagram.com/rwe_rvve/",
-      "telegram": "https://t.me/rwe_rvve"
+      "instagram": "https://www.instagram.com/rwe_rvve/"
     }
   },
   "theme": {
