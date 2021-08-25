@@ -19,8 +19,6 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    ".forestry/types.ts",
-    ".forestry/config.ts",
-    "./public/rvve_logo.svg"
+    "custom.d.ts"
   ]
 }
