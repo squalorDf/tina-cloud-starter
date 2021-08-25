@@ -153,6 +153,10 @@ const iconSchema: TinaField = {
           label: "Tina",
           value: "tina",
         },
+        {
+          label: "RVVE",
+          value: "rvve",
+        },
       ],
     },
   ],
