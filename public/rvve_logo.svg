@@ -6,7 +6,7 @@
     <desc>Rvve_logo_FCK_IT</desc>
 
     <g transform="translate(0.000000,20.000000) scale(0.001111,-0.001111)"
-       fill="#000000" stroke="none">
+       fill="currentColor" stroke="none">
 
         <path d="M8035 17029 c-99 -5 -207 -13 -240 -18 -33 -6 -111 -15 -173 -21
 -164 -15 -632 -86 -727 -109 -64 -16 -114 -28 -215 -50 -167 -36 -344 -80
