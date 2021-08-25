@@ -246,6 +246,7 @@ export type GlobalFooterSocial = {
   twitter?: Maybe<Scalars['String']>;
   instagram?: Maybe<Scalars['String']>;
   github?: Maybe<Scalars['String']>;
+  telegram?: Maybe<Scalars['String']>;
 };
 
 export type GlobalFooter = {
@@ -494,6 +495,7 @@ export type GlobalFooterSocialMutation = {
   twitter?: Maybe<Scalars['String']>;
   instagram?: Maybe<Scalars['String']>;
   github?: Maybe<Scalars['String']>;
+  telegram?: Maybe<Scalars['String']>;
 };
 
 export type GlobalFooterMutation = {

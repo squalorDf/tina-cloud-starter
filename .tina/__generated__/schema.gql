@@ -133,6 +133,7 @@ type GlobalFooterSocial {
   twitter: String
   instagram: String
   github: String
+  telegram: String
 }
 
 type GlobalFooter {
@@ -320,6 +321,7 @@ input GlobalFooterSocialMutation {
   twitter: String
   instagram: String
   github: String
+  telegram: String
 }
 
 input GlobalFooterMutation {

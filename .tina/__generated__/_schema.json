@@ -251,6 +251,10 @@
                     {
                       "label": "Tina",
                       "value": "tina"
+                    },
+                    {
+                      "label": "RVVE",
+                      "value": "rvve"
                     }
                   ],
                   "namespace": [
@@ -406,6 +410,17 @@
                     "footer",
                     "social",
                     "github"
+                  ]
+                },
+                {
+                  "type": "string",
+                  "label": "Telegram",
+                  "name": "telegram",
+                  "namespace": [
+                    "global",
+                    "footer",
+                    "social",
+                    "telegram"
                   ]
                 }
               ],
@@ -1005,6 +1020,10 @@
                             {
                               "label": "Tina",
                               "value": "tina"
+                            },
+                            {
+                              "label": "RVVE",
+                              "value": "rvve"
                             }
                           ],
                           "namespace": [

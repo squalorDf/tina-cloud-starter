@@ -212,6 +212,10 @@
                     {
                       "label": "Tina",
                       "value": "tina"
+                    },
+                    {
+                      "label": "RVVE",
+                      "value": "rvve"
                     }
                   ]
                 }
@@ -302,6 +306,11 @@
                   "type": "string",
                   "label": "Github",
                   "name": "github"
+                },
+                {
+                  "type": "string",
+                  "label": "Telegram",
+                  "name": "telegram"
                 }
               ]
             }
@@ -754,6 +763,10 @@
                             {
                               "label": "Tina",
                               "value": "tina"
+                            },
+                            {
+                              "label": "RVVE",
+                              "value": "rvve"
                             }
                           ]
                         }

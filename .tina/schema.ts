@@ -521,6 +521,11 @@ export default defineSchema({
                   label: "Github",
                   name: "github",
                 },
+                {
+                  type: "string",
+                  label: "Telegram",
+                  name: "telegram",
+                },
               ],
             },
           ],
