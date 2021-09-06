@@ -8,8 +8,12 @@
     "color": "default",
     "nav": [
       {
-        "href": "posts",
-        "label": "Контент"
+        "href": "home",
+        "label": "Home"
+      },
+      {
+        "href": "authors",
+        "label": "Авторы"
       }
     ]
   },
